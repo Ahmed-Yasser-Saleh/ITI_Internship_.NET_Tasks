@@ -1,0 +1,14 @@
+F:\web development\projects\ITI_tasks\task_6\bin\Debug\net8.0\task_6.exe
+F:\web development\projects\ITI_tasks\task_6\bin\Debug\net8.0\task_6.deps.json
+F:\web development\projects\ITI_tasks\task_6\bin\Debug\net8.0\task_6.runtimeconfig.json
+F:\web development\projects\ITI_tasks\task_6\bin\Debug\net8.0\task_6.dll
+F:\web development\projects\ITI_tasks\task_6\bin\Debug\net8.0\task_6.pdb
+F:\web development\projects\ITI_tasks\task_6\obj\Debug\net8.0\task_6.GeneratedMSBuildEditorConfig.editorconfig
+F:\web development\projects\ITI_tasks\task_6\obj\Debug\net8.0\task_6.AssemblyInfoInputs.cache
+F:\web development\projects\ITI_tasks\task_6\obj\Debug\net8.0\task_6.AssemblyInfo.cs
+F:\web development\projects\ITI_tasks\task_6\obj\Debug\net8.0\task_6.csproj.CoreCompileInputs.cache
+F:\web development\projects\ITI_tasks\task_6\obj\Debug\net8.0\task_6.dll
+F:\web development\projects\ITI_tasks\task_6\obj\Debug\net8.0\refint\task_6.dll
+F:\web development\projects\ITI_tasks\task_6\obj\Debug\net8.0\task_6.pdb
+F:\web development\projects\ITI_tasks\task_6\obj\Debug\net8.0\task_6.genruntimeconfig.cache
+F:\web development\projects\ITI_tasks\task_6\obj\Debug\net8.0\ref\task_6.dll

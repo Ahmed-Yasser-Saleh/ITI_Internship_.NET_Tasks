@@ -1,0 +1,15 @@
+F:\web development\projects\ITI_tasks\task_2_4\obj\Debug\net5.0\task_2_4.GeneratedMSBuildEditorConfig.editorconfig
+F:\web development\projects\ITI_tasks\task_2_4\obj\Debug\net5.0\task_2_4.AssemblyInfoInputs.cache
+F:\web development\projects\ITI_tasks\task_2_4\obj\Debug\net5.0\task_2_4.AssemblyInfo.cs
+F:\web development\projects\ITI_tasks\task_2_4\obj\Debug\net5.0\task_2_4.csproj.CoreCompileInputs.cache
+F:\web development\projects\ITI_tasks\task_2_4\bin\Debug\net5.0\task_2_4.exe
+F:\web development\projects\ITI_tasks\task_2_4\bin\Debug\net5.0\task_2_4.deps.json
+F:\web development\projects\ITI_tasks\task_2_4\bin\Debug\net5.0\task_2_4.runtimeconfig.json
+F:\web development\projects\ITI_tasks\task_2_4\bin\Debug\net5.0\task_2_4.runtimeconfig.dev.json
+F:\web development\projects\ITI_tasks\task_2_4\bin\Debug\net5.0\task_2_4.dll
+F:\web development\projects\ITI_tasks\task_2_4\bin\Debug\net5.0\task_2_4.pdb
+F:\web development\projects\ITI_tasks\task_2_4\obj\Debug\net5.0\task_2_4.dll
+F:\web development\projects\ITI_tasks\task_2_4\obj\Debug\net5.0\refint\task_2_4.dll
+F:\web development\projects\ITI_tasks\task_2_4\obj\Debug\net5.0\task_2_4.pdb
+F:\web development\projects\ITI_tasks\task_2_4\obj\Debug\net5.0\task_2_4.genruntimeconfig.cache
+F:\web development\projects\ITI_tasks\task_2_4\obj\Debug\net5.0\ref\task_2_4.dll

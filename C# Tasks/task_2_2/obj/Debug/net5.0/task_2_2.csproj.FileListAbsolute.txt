@@ -1,0 +1,15 @@
+F:\web development\projects\ITI_tasks\task_2_2\bin\Debug\net5.0\task_2_2.exe
+F:\web development\projects\ITI_tasks\task_2_2\bin\Debug\net5.0\task_2_2.deps.json
+F:\web development\projects\ITI_tasks\task_2_2\bin\Debug\net5.0\task_2_2.runtimeconfig.json
+F:\web development\projects\ITI_tasks\task_2_2\bin\Debug\net5.0\task_2_2.runtimeconfig.dev.json
+F:\web development\projects\ITI_tasks\task_2_2\bin\Debug\net5.0\task_2_2.dll
+F:\web development\projects\ITI_tasks\task_2_2\bin\Debug\net5.0\task_2_2.pdb
+F:\web development\projects\ITI_tasks\task_2_2\obj\Debug\net5.0\task_2_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\web development\projects\ITI_tasks\task_2_2\obj\Debug\net5.0\task_2_2.AssemblyInfoInputs.cache
+F:\web development\projects\ITI_tasks\task_2_2\obj\Debug\net5.0\task_2_2.AssemblyInfo.cs
+F:\web development\projects\ITI_tasks\task_2_2\obj\Debug\net5.0\task_2_2.csproj.CoreCompileInputs.cache
+F:\web development\projects\ITI_tasks\task_2_2\obj\Debug\net5.0\task_2_2.dll
+F:\web development\projects\ITI_tasks\task_2_2\obj\Debug\net5.0\refint\task_2_2.dll
+F:\web development\projects\ITI_tasks\task_2_2\obj\Debug\net5.0\task_2_2.pdb
+F:\web development\projects\ITI_tasks\task_2_2\obj\Debug\net5.0\task_2_2.genruntimeconfig.cache
+F:\web development\projects\ITI_tasks\task_2_2\obj\Debug\net5.0\ref\task_2_2.dll
